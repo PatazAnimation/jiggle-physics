@@ -62,3 +62,5 @@ paths_exclude_pattern = [
  "/.gitignore",
  "/README.md",
 ]
+
+privacy = ["Public"]
